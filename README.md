@@ -76,7 +76,7 @@ Use the Deploy Button below. It will let you deploy the starter using Vercel as 
 
 Alternatively, you can deploy to other services such as Netlify or Cloudflare Pages or AWS Amplify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/web3templates/stablo/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mmtat/stablo/)
 
 
 ## Step 2: Set up the project locally.
